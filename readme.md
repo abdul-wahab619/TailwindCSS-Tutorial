@@ -53,3 +53,12 @@ Skills Institution utilizes Tailwind CSS for styling. To build the styles, run t
 
 ```bash
 npm run buid
+
+## Contributing
+We welcome contributions! If you'd like to contribute to the project, please follow the guidelines outlined in the Contribution Guidelines.
+
+## License
+This project is licensed under the MIT License.
+
+```bash
+Feel free to modify and expand upon this template according to your specific project requirements.
